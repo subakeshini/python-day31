@@ -1,0 +1,16 @@
+print("=" * 35)
+print("\t  FreshMart Receipt ")
+print("=" * 35)
+
+# Items and prices
+print("Item\t\tQty\tPrice")
+print("-" * 35)
+print("Tomatoes\t3\t$2.10")
+print("Onions\t\t2\t$1.20")
+print("Rice (1kg)\t1\t$3.50")
+print("Eggs (6pc)\t1\t$2.00")
+print("-" * 35)
+print("Total:\t\t \t$8.80")
+print("=" * 35)
+print("\tThanks for shopping with us! ")
+print("=" * 35)
